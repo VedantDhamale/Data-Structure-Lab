@@ -62,15 +62,7 @@ print(highest_freq_mark, highest_freq)
 
 
 
-
-
-
-
-
-
-
-
-
+'''
 <-----------------------OUTPUT-------------------------------->
 Enter number of students in class: 5
 Enter marks of roll no 1 :1
@@ -84,3 +76,4 @@ b. The maximum score of class is 5 and minimum score of class is 1
 Total students absent 0
 {1: 1, 5: 1, 2: 1, 3: 2}
 3 2
+'''
